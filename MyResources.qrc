@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/enlighto.png</file>
+        <file>images/enlighto_no_background.png</file>
+        <file>images/login_background.jpg</file>
+        <file>images/enlighto_no_background_small_size.png</file>
+        <file>images/enlighto_no_background_small_size_black.png</file>
+        <file>images/background.jpg</file>
+        <file>images/ycla.png</file>
+        <file>images/o2cJRJq.jpg</file>
+        <file>images/exit_full_screen.png</file>
+        <file>images/full_screen.png</file>
+        <file>images/contents.png</file>
+        <file>images/videos.png</file>
+        <file>images/play_red.png</file>
+        <file>images/next.png</file>
+        <file>images/previous.png</file>
+        <file>images/synchronize.png</file>
+        <file>images/loader.gif</file>
+        <file>images/stop.png</file>
+        <file>images/add_content.png</file>
+        <file>images/add_video.png</file>
+        <file>images/logout.png</file>
+        <file>images/graph.png</file>
+        <file>images/web_browser.png</file>
+        <file>qss/mymenuwidget.qss</file>
+        <file>qss/bookwidget.qss</file>
+        <file>qss/toolbar.qss</file>
+        <file>images/slideshows.png</file>
+        <file>images/whiteboard.png</file>
+        <file>qss/questionswidget.qss</file>
+        <file>images/qna.png</file>
+        <file>images/link.png</file>
+        <file>images/qna_add.png</file>
+        <file>images/addlink.png</file>
+    </qresource>
+</RCC>

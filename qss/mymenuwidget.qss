@@ -1,0 +1,28 @@
+QPushButton#whiteBoardButton{
+    background-color:rgba(0,0,0,0%);
+    width:40px;
+    height:40px;
+    border-image:url(:/images/whiteboard.png);
+    outline:none
+}
+
+
+QPushButton#logoutButton{
+    background-color:rgba(0,0,0,0%);
+    width:40px;
+    height:40px;
+    border-image:url(:/images/logout.png);
+    outline:none
+}
+
+QPushButton#toggleFullScreenButton{
+    background-color:rgba(0,0,0,0%);
+    width:40px;
+    height:40px;
+    border-image:url(:/images/full_screen.png);
+    outline:none
+}
+
+QPushButton#toggleFullScreenButton:checked{
+    border-image:url(:/images/exit_full_screen.png);
+}

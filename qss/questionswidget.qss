@@ -1,0 +1,57 @@
+QComboBox#chapterSelectComboBox{
+    padding:12px;
+}
+
+QListView{
+    border:none;
+    border-top:1px solid black;
+    font-size:22px;
+    alternate-background-color:transparent;
+    background-color:rgba(255,255,255,0%);
+    outline:none;
+    padding:0;
+    margin:0;
+}
+
+QLabel#question{
+    font-size:40px;
+    color:#7637bd;
+}
+
+QPushButton#option1, QPushButton#option2, QPushButton#option3, QPushButton#option4{
+    background-color:rgb(195, 195, 195);
+    border:2px solid #7637bd;
+    padding:10px;
+    font-size:20px;
+    color:#7637bd;
+    font-weight:bold;
+    outline:none;
+}
+
+QPushButton#option1:hover, QPushButton#option2:hover, QPushButton#option3:hover, QPushButton#option4:hover{
+    background-color:#31de79;
+    color:black;
+}
+
+QPushButton#option1:pressed, QPushButton#option2:pressed, QPushButton#option3:pressed, QPushButton#option4:pressed{
+    background-color:#15a846;
+    color:black;
+}
+
+QListView::item{
+    padding:14px;
+    border-bottom:1px solid black;
+}
+
+QListView::item:selected:!active {
+    background-color:#15a846;
+}
+
+QListView::item:selected:active {
+    background-color:#15a846;
+}
+
+QListView::item:hover {
+    background-color:#31de79;
+    color:white;
+}
